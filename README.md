@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vitor, a part-time android freelance developer👨‍💻🚀</div>  
+### <div align="center">Hey I'm Vitor, an android developer👨‍💻🚀</div>  
   
 
 - 🌱 I’m currently learning Android Kotlin  
