@@ -6,7 +6,7 @@
 ### <div align="center">Hey I'm Vitor, an android developer👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning Android Kotlin  
+- 📱 I’m currently Android Kotlin (4 years of experience) 
   
 
 - ❓ Ask me about anything related to Android stack and related technologies  
